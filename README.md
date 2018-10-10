@@ -1,0 +1,2 @@
+# EMA
+Electromagnetic Articulography Toolbox
